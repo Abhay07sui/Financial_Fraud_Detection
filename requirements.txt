@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+networkx
+streamlit
+google-genai
+python-dotenv
+matplotlib
+seaborn
